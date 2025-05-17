@@ -1,0 +1,11 @@
+ID,Name,Age,City,Grade,Salary,Department
+1,Alice,25,New York,A,50000,Sales
+2,Bob,30,London,B,60000,Marketing
+3,Charlie,,Paris,A,55000,Sales
+4,David,28,Tokyo,C,70000,Engineering
+5,Eve,35,New York,B,,Marketing
+6,Frank,22,London,,48000,Sales
+7,Grace,,Paris,A,62000,Engineering
+8,Henry,40,Tokyo,B,75000,Marketing
+9,Ivy,27,,New York,C,52000,Sales
+10,Jack,31,London,A,65000,Engineering
