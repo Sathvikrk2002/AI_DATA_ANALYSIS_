@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary,JoinDate,Department
+1,Alice,29,Female,70000,2021-05-01,HR
+2,Bob,35,Male,80000,2020-03-15,Finance
+3,Charlie,28,Male,60000,2022-07-23,IT
+4,David,45,Male,NaN,2018-10-30,Operations
+5,Eve,32,Female,75000,2019-01-10,Finance
+6,Frank,NaN,Male,50000,2021-11-11,IT
+7,Grace,41,Female,85000,2017-06-25,HR
+8,Heidi,38,Female,92000,,Marketing
+9,Ivan,30,Male,NaN,2020-12-05,IT
+10,Judy,27,Female,65000,2022-08-01,Marketing
