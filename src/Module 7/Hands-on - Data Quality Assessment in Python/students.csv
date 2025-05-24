@@ -1,0 +1,11 @@
+ID,Name,Age,Grade,Email
+1,John Doe,18,A,john.doe@example.com
+2,Jane Smith,22,B,jane.smith@example.com
+3,Bob Johnson,17,C,bob.johnson@example.com
+4,Alice Brown,20,E,alice.brown@example.com
+5,Tom White,15,D,tom.white@example.com
+6,Eva Green,101,B,eva.green@example.com
+7,Mike123,19,A,mike123@example.com
+8,Chris Red,16,G,chris.red@example.com
+9,John Doe,18,A,john.duplicate@example.com
+10,Sarah Lee,4,B,sarah.lee@example.com
